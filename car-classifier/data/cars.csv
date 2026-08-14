@@ -7,6 +7,8 @@ engine,doors,seats,horsepower,type
 1.8,5,5,140,hatchback
 1.8,5,5,145,hatchback
 1.9,5,5,150,hatchback
+1.4, 5, 5, 75, sedan
+1.0, 5, 5, 100, sedan
 2.0,5,5,150,sedan
 2.0,5,5,170,sedan
 2.0,5,5,190,sedan
