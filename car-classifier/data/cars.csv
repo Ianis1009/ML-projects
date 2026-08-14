@@ -38,3 +38,13 @@
 38,Audi,A4,2020,2.0,190,320,1550,4,5,44000,petrol,automatic,FWD,sedan,31500
 39,Audi,A6,2021,2.0,245,370,1770,4,5,32000,petrol,automatic,AWD,sedan,47500
 40,Audi,A8,2020,3.0,335,500,1980,4,5,39000,diesel,automatic,AWD,sedan,68500
+41,Audi,Q2,2019,1.5,150,250,1450,5,5,55000,petrol,automatic,FWD,suv,24500
+42,Audi,Q3,2020,2.0,230,350,1700,5,5,38000,petrol,automatic,AWD,suv,36500
+43,Audi,Q5,2021,2.0,261,370,1900,5,5,29000,petrol,automatic,AWD,suv,48500
+44,Audi,Q7,2020,3.0,335,500,2200,5,7,51000,diesel,automatic,AWD,suv,58500
+45,Audi,Q8,2022,3.0,335,500,2180,5,5,18000,petrol,automatic,AWD,suv,74500
+46,Audi,TT,2019,2.0,228,370,1450,2,2,47000,petrol,automatic,AWD,coupe,38500
+47,Audi,R8,2020,5.2,602,560,1640,2,2,17000,petrol,automatic,AWD,sports,125000
+48,Ford,Focus,2018,1.0,125,170,1350,5,5,78000,petrol,manual,FWD,hatchback,11500
+49,Ford,Focus,2020,1.5,150,240,1380,5,5,45000,petrol,manual,FWD,hatchback,16500
+50,Ford,Mondeo,2019,2.0,190,400,1650,4,5,68000,diesel,automatic,FWD,sedan,19500
