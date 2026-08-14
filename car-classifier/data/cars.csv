@@ -68,3 +68,13 @@
 68,Honda,CR-V,2019,1.5,190,243,1580,5,5,62000,petrol,automatic,AWD,suv,25500
 69,Honda,CR-V,2022,2.0,204,335,1650,5,5,22000,hybrid,automatic,AWD,suv,35500
 70,Honda,HR-V,2021,1.5,158,187,1400,5,5,30000,petrol,automatic,FWD,suv,24500
+71,Hyundai,i30,2019,1.4,140,242,1350,5,5,52000,petrol,manual,FWD,hatchback,14500
+72,Hyundai,i30,2022,1.5,160,253,1380,5,5,18000,petrol,automatic,FWD,hatchback,21500
+73,Hyundai,Elantra,2020,2.0,147,179,1350,4,5,41000,petrol,automatic,FWD,sedan,18500
+74,Hyundai,Sonata,2021,2.5,191,245,1550,4,5,29000,petrol,automatic,FWD,sedan,26500
+75,Hyundai,Tucson,2020,1.6,180,265,1650,5,5,38000,petrol,automatic,AWD,suv,24500
+76,Hyundai,Tucson,2022,1.6,230,350,1700,5,5,17000,hybrid,automatic,AWD,suv,33500
+77,Hyundai,Santa Fe,2021,2.2,200,440,1850,5,5,26000,diesel,automatic,AWD,suv,34500
+78,Hyundai,Palisade,2022,3.8,291,355,2050,5,7,21000,petrol,automatic,AWD,suv,42500
+79,Dacia,Logan,2018,1.0,90,140,1050,4,5,82000,petrol,manual,FWD,sedan,7500
+80,Dacia,Logan,2021,1.0,90,160,1080,4,5,36000,petrol,manual,FWD,sedan,10500
