@@ -43,7 +43,7 @@ print(classification_report(y_test, predictions))
 print()
 print("Car Classifier")
 
-engine = float(input("Engine size (e.g. 2.0)"))
+engine = float(input("Engine size (e.g. 2.0): "))
 doors = int(input("Number of doors: "))
 seats = int(input("Number of seats: "))
 horsepower = int(input("Horsepower: "))
