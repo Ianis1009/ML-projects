@@ -48,3 +48,13 @@
 48,Ford,Focus,2018,1.0,125,170,1350,5,5,78000,petrol,manual,FWD,hatchback,11500
 49,Ford,Focus,2020,1.5,150,240,1380,5,5,45000,petrol,manual,FWD,hatchback,16500
 50,Ford,Mondeo,2019,2.0,190,400,1650,4,5,68000,diesel,automatic,FWD,sedan,19500
+51,Ford,Mustang,2019,5.0,450,556,1700,2,4,52000,petrol,manual,RWD,coupe,36500
+52,Ford,Mustang,2022,5.0,450,556,1720,2,4,18000,petrol,automatic,RWD,coupe,47500
+53,Ford,Explorer,2020,2.3,300,420,2100,5,7,54000,petrol,automatic,AWD,suv,36500
+54,Ford,Explorer,2022,3.0,365,515,2200,5,7,26000,petrol,automatic,AWD,suv,49500
+55,Ford,Ranger,2019,2.0,170,420,2100,4,5,75000,diesel,manual,4WD,pickup,27500
+56,Ford,Ranger,2021,2.0,213,500,2150,4,5,35000,diesel,automatic,4WD,pickup,38500
+57,Volkswagen,Golf,2018,1.5,150,250,1350,5,5,72000,petrol,manual,FWD,hatchback,13500
+58,Volkswagen,Golf,2021,1.5,150,250,1380,5,5,32000,petrol,automatic,FWD,hatchback,21500
+59,Volkswagen,Passat,2019,2.0,190,400,1600,4,5,65000,diesel,automatic,FWD,sedan,22500
+60,Volkswagen,Passat,2021,2.0,200,400,1640,4,5,28000,petrol,automatic,FWD,sedan,31500
