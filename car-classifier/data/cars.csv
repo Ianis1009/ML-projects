@@ -15,3 +15,11 @@ engine,doors,seats,horsepower,type
 2.8,5,5,250,sedan
 3.0,5,5,280,sedan
 3.0,5,5,290,sedan
+2.0,5,5,200,suv
+2.2,5,5,220,suv
+2.5,5,5,240,suv
+2.8,5,5,260,suv
+3.0,5,5,280,suv
+3.0,5,7,300,suv
+3.5,5,7,350,suv
+4.0,5,7,380,suv
