@@ -26,3 +26,13 @@ print()
 print(f"Training samples: {len(X_train)}")
 print(f"Test samples: {len(X_test)}")
 
+model = DecisionTreeClassifier(max_depth=3, random_state=42)
+model.fit(X_train, y_train)
+
+predictions = model.predict(X_test)
+accuracy = accuracy_score(y_test, predictions)
+print()
+print(f"Accuracy: {accuracy:.2%}")
+print()
+print("Report:")
+print(classification_report(y_test, predictions))
