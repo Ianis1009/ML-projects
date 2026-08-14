@@ -8,3 +8,13 @@
 8,Toyota,Yaris,2019,1.5,111,136,1040,5,5,55000,petrol,manual,FWD,hatchback,13500
 9,Toyota,Yaris,2022,1.5,116,141,1080,5,5,22000,hybrid,automatic,FWD,hatchback,19500
 10,Toyota,Supra,2021,3.0,382,500,1520,2,2,18000,petrol,automatic,RWD,coupe,54000
+11,BMW,320i,2018,2.0,184,290,1530,4,5,82000,petrol,automatic,RWD,sedan,22000
+12,BMW,320i,2021,2.0,184,300,1560,4,5,36000,petrol,automatic,RWD,sedan,31500
+13,BMW,330i,2020,2.0,255,400,1580,4,5,42000,petrol,automatic,RWD,sedan,34500
+14,BMW,530i,2019,2.0,248,350,1700,4,5,65000,petrol,automatic,RWD,sedan,36500
+15,BMW,530d,2020,3.0,286,650,1780,4,5,58000,diesel,automatic,RWD,sedan,42500
+16,BMW,740i,2021,3.0,335,450,1900,4,5,32000,petrol,automatic,RWD,sedan,69000
+17,BMW,X1,2019,2.0,228,350,1650,5,5,70000,petrol,automatic,AWD,suv,28500
+18,BMW,X3,2020,2.0,248,350,1840,5,5,49000,petrol,automatic,AWD,suv,41000
+19,BMW,X5,2019,3.0,335,450,2180,5,5,68000,diesel,automatic,AWD,suv,48500
+20,BMW,X5,2022,3.0,335,450,2200,5,5,27000,petrol,automatic,AWD,suv,66500
