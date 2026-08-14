@@ -1,33 +1,10 @@
-engine,doors,seats,horsepower,type
-1.2,5,5,90,hatchback
-1.3,5,5,95,hatchback
-1.4,5,5,110,hatchback
-1.5,5,5,115,hatchback
-1.6,5,5,120,hatchback
-1.8,5,5,140,hatchback
-1.8,5,5,145,hatchback
-1.9,5,5,150,hatchback
-1.4, 5, 5, 75, sedan
-1.0, 5, 5, 100, sedan
-2.0,5,5,150,sedan
-2.0,5,5,170,sedan
-2.0,5,5,190,sedan
-2.2,5,5,200,sedan
-2.5,5,5,220,sedan
-2.8,5,5,250,sedan
-3.0,5,5,280,sedan
-3.0,5,5,290,sedan
-2.0,5,5,200,suv
-2.2,5,5,220,suv
-2.5,5,5,240,suv
-2.8,5,5,260,suv
-3.0,5,5,280,suv
-3.0,5,7,300,suv
-3.5,5,7,350,suv
-4.0,5,7,380,suv
-3.0,2,2,350,sports
-3.2,2,2,380,sports
-3.5,2,2,400,sports
-4.0,2,2,450,sports
-4.5,2,2,500,sports
-5.0,2,2,550,sports
+1,Toyota,Corolla,2018,1.6,132,160,1285,4,5,72000,petrol,manual,FWD,sedan,14500
+2,Toyota,Corolla,2020,1.8,139,171,1310,4,5,45000,hybrid,automatic,FWD,sedan,19500
+3,Toyota,Camry,2019,2.5,203,250,1590,4,5,62000,petrol,automatic,FWD,sedan,22500
+4,Toyota,Camry,2022,2.5,208,250,1620,4,5,28000,hybrid,automatic,FWD,sedan,31500
+5,Toyota,RAV4,2019,2.0,173,208,1570,5,5,68000,petrol,automatic,AWD,suv,24500
+6,Toyota,RAV4,2021,2.5,203,249,1660,5,5,35000,hybrid,automatic,AWD,suv,33500
+7,Toyota,Land Cruiser,2018,4.5,261,650,2580,5,7,105000,diesel,automatic,AWD,suv,52000
+8,Toyota,Yaris,2019,1.5,111,136,1040,5,5,55000,petrol,manual,FWD,hatchback,13500
+9,Toyota,Yaris,2022,1.5,116,141,1080,5,5,22000,hybrid,automatic,FWD,hatchback,19500
+10,Toyota,Supra,2021,3.0,382,500,1520,2,2,18000,petrol,automatic,RWD,coupe,54000
