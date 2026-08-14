@@ -23,3 +23,9 @@ engine,doors,seats,horsepower,type
 3.0,5,7,300,suv
 3.5,5,7,350,suv
 4.0,5,7,380,suv
+3.0,2,2,350,sports
+3.2,2,2,380,sports
+3.5,2,2,400,sports
+4.0,2,2,450,sports
+4.5,2,2,500,sports
+5.0,2,2,550,sports
