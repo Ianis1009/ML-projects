@@ -78,3 +78,13 @@
 78,Hyundai,Palisade,2022,3.8,291,355,2050,5,7,21000,petrol,automatic,AWD,suv,42500
 79,Dacia,Logan,2018,1.0,90,140,1050,4,5,82000,petrol,manual,FWD,sedan,7500
 80,Dacia,Logan,2021,1.0,90,160,1080,4,5,36000,petrol,manual,FWD,sedan,10500
+81,Dacia,Duster,2019,1.3,130,240,1350,5,5,68000,petrol,manual,4WD,suv,12500
+82,Dacia,Duster,2022,1.3,150,250,1400,5,5,21000,petrol,automatic,4WD,suv,18500
+83,Dacia,Sandero,2020,1.0,100,160,1050,5,5,42000,petrol,manual,FWD,hatchback,9500
+84,Dacia,Jogger,2022,1.0,110,200,1250,5,7,18000,petrol,manual,FWD,minivan,15500
+85,Tesla,Model3,2019,0.0,283,450,1625,4,5,62000,electric,automatic,RWD,sedan,28500
+86,Tesla,Model3,2022,0.0,283,450,1750,4,5,24000,electric,automatic,AWD,sedan,39500
+87,Tesla,ModelY,2021,0.0,384,493,2000,5,5,31000,electric,automatic,AWD,suv,45500
+88,Tesla,ModelY,2022,0.0,456,493,2050,5,5,18000,electric,automatic,AWD,suv,53500
+89,Tesla,ModelS,2020,0.0,503,660,2100,4,5,45000,electric,automatic,AWD,sedan,58500
+90,Tesla,ModelS,2022,0.0,670,1020,2160,4,5,12000,electric,automatic,AWD,sedan,89500
