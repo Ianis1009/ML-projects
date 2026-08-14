@@ -18,3 +18,13 @@
 18,BMW,X3,2020,2.0,248,350,1840,5,5,49000,petrol,automatic,AWD,suv,41000
 19,BMW,X5,2019,3.0,335,450,2180,5,5,68000,diesel,automatic,AWD,suv,48500
 20,BMW,X5,2022,3.0,335,450,2200,5,5,27000,petrol,automatic,AWD,suv,66500
+21,BMW,X7,2021,3.0,335,450,2450,5,7,35000,diesel,automatic,AWD,suv,78500
+22,BMW,Z4,2020,3.0,382,500,1570,2,2,29000,petrol,automatic,RWD,convertible,55500
+23,BMW,M4,2021,3.0,503,650,1725,2,4,19000,petrol,automatic,RWD,coupe,82500
+24,BMW,M5,2020,4.4,617,750,1970,4,5,38000,petrol,automatic,AWD,sedan,81500
+25,Mercedes,C200,2019,1.5,184,280,1580,4,5,62000,petrol,automatic,RWD,sedan,30000
+26,Mercedes,C300,2021,2.0,255,370,1650,4,5,32000,petrol,automatic,RWD,sedan,42500
+27,Mercedes,E220d,2019,2.0,194,400,1750,4,5,71000,diesel,automatic,RWD,sedan,39500
+28,Mercedes,E300,2020,2.0,255,370,1780,4,5,45000,petrol,automatic,RWD,sedan,47500
+29,Mercedes,S350d,2019,3.0,286,600,2050,4,5,67000,diesel,automatic,RWD,sedan,62000
+30,Mercedes,S500,2021,3.0,429,520,2070,4,5,29000,petrol,automatic,AWD,sedan,92500
