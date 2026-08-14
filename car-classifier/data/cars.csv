@@ -88,3 +88,13 @@
 88,Tesla,ModelY,2022,0.0,456,493,2050,5,5,18000,electric,automatic,AWD,suv,53500
 89,Tesla,ModelS,2020,0.0,503,660,2100,4,5,45000,electric,automatic,AWD,sedan,58500
 90,Tesla,ModelS,2022,0.0,670,1020,2160,4,5,12000,electric,automatic,AWD,sedan,89500
+91,Porsche,718,2019,2.0,300,380,1380,2,2,28000,petrol,automatic,RWD,sports,62000
+92,Porsche,718,2022,2.0,300,380,1400,2,2,11000,petrol,automatic,RWD,sports,73500
+93,Porsche,911,2020,3.0,443,530,1515,2,4,26000,petrol,automatic,RWD,sports,105000
+94,Porsche,911,2022,3.0,443,530,1530,2,4,9000,petrol,automatic,RWD,sports,132000
+95,Porsche,Cayenne,2020,3.0,335,450,2150,5,5,47000,petrol,automatic,AWD,suv,69500
+96,Porsche,Cayenne,2022,3.0,335,450,2200,5,5,17000,petrol,automatic,AWD,suv,86500
+97,Volvo,XC40,2020,2.0,190,300,1700,5,5,39000,petrol,automatic,AWD,suv,31500
+98,Volvo,XC60,2021,2.0,250,350,1900,5,5,28000,hybrid,automatic,AWD,suv,46500
+99,Volvo,XC90,2020,2.0,316,400,2150,5,7,42000,petrol,automatic,AWD,suv,48500
+100,Volvo,S90,2019,2.0,250,350,1800,4,5,51000,diesel,automatic,AWD,sedan,38500
