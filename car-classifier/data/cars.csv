@@ -58,3 +58,13 @@
 58,Volkswagen,Golf,2021,1.5,150,250,1380,5,5,32000,petrol,automatic,FWD,hatchback,21500
 59,Volkswagen,Passat,2019,2.0,190,400,1600,4,5,65000,diesel,automatic,FWD,sedan,22500
 60,Volkswagen,Passat,2021,2.0,200,400,1640,4,5,28000,petrol,automatic,FWD,sedan,31500
+61,Volkswagen,Tiguan,2020,2.0,190,320,1750,5,5,42000,petrol,automatic,AWD,suv,29500
+62,Volkswagen,Touareg,2021,3.0,286,600,2150,5,5,37000,diesel,automatic,AWD,suv,49500
+63,Volkswagen,Polo,2019,1.0,95,175,1120,5,5,52000,petrol,manual,FWD,hatchback,12500
+64,Volkswagen,Arteon,2020,2.0,280,400,1700,4,5,43000,petrol,automatic,AWD,sedan,36500
+65,Honda,Civic,2019,1.5,180,240,1350,4,5,58000,petrol,manual,FWD,sedan,19500
+66,Honda,Civic,2022,2.0,158,187,1370,4,5,19000,petrol,automatic,FWD,sedan,26500
+67,Honda,Accord,2020,1.5,192,260,1500,4,5,45000,petrol,automatic,FWD,sedan,24500
+68,Honda,CR-V,2019,1.5,190,243,1580,5,5,62000,petrol,automatic,AWD,suv,25500
+69,Honda,CR-V,2022,2.0,204,335,1650,5,5,22000,hybrid,automatic,AWD,suv,35500
+70,Honda,HR-V,2021,1.5,158,187,1400,5,5,30000,petrol,automatic,FWD,suv,24500
