@@ -1,3 +1,4 @@
+id,brand,model,year,engine,horsepower,torque,weight,doors,seats,mileage,fuel,transmission,drive_type,body_type,price
 1,Toyota,Corolla,2018,1.6,132,160,1285,4,5,72000,petrol,manual,FWD,sedan,14500
 2,Toyota,Corolla,2020,1.8,139,171,1310,4,5,45000,hybrid,automatic,FWD,sedan,19500
 3,Toyota,Camry,2019,2.5,203,250,1590,4,5,62000,petrol,automatic,FWD,sedan,22500
