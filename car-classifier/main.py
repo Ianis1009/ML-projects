@@ -59,7 +59,14 @@ model = DecisionTreeClassifier(max_depth=5, random_state=42)
 model.fit(X_train, y_train) # train model
 
 predictions = model.predict(X_test)
+print()
+
 accuracy = accuracy_score(y_test, predictions)
+print(f"Accuracy: {accuracy:.2%}")
 print()
 
 print("Classification report:") #report 
+
+print(classification_report(y_test, predictions, zero_division=0))
+
+
