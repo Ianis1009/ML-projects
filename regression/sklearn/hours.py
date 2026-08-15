@@ -16,3 +16,7 @@ model = LinearRegression()
 
 # train model
 model.fit(X, y)
+
+# paramenters
+print("Slope:", model.coef_[0])
+print("Intercept:", model.intercept_)
