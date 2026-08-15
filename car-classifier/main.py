@@ -99,3 +99,17 @@ new_car = pd.DataFrame(
 
 
 prediction = model.predict(new_car)[0] # by cars.csv
+
+print()
+print("PREDICION: ")
+print(f"Predicted body type: {prediction}")
+
+probabilities = model.predict_proba(new_car)[0]
+
+classes = model.classes_
+
+print()
+print("Prediction probabilities:")
+
+for class_name, probability in zip(classes, probabilities):
+    print( f"{class_name:15} " f"{probability:.2%}")
