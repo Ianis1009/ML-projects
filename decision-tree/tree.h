@@ -3,9 +3,9 @@
 #define TREE_H
 
 typedef struct {
-    int feature;
-    double gini;
-    double threshold;
+    int feature; // col to use
+    double gini; // quality
+    double threshold; // where do the split
 } Split;
 
 double gini (const int *y, int n, int num_classes);
