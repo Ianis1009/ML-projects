@@ -69,4 +69,33 @@ print("Classification report:") #report
 
 print(classification_report(y_test, predictions, zero_division=0))
 
+print()
+print("CAR CLASSIFIER")
 
+year = int(input("Year: "))
+engine = float(input("Engine size (e.g. 2.0): "))
+horsepower = int(input("Horsepower: "))
+torque = int(input("Torque (Nm): "))
+weight = int(input("Weight (kg): "))
+doors = int(input("Number of doors: "))
+seats = int(input("Number of seats: "))
+mileage = int(input("Mileage (km): "))
+
+
+new_car = pd.DataFrame(
+    [
+        {
+            "year": year,
+            "engine": engine,
+            "horsepower": horsepower,
+            "torque": torque,
+            "weight": weight,
+            "doors": doors,
+            "seats": seats,
+            "mileage": mileage,
+        }
+    ]
+)
+
+
+prediction = model.predict(new_car)[0] # by cars.csv
