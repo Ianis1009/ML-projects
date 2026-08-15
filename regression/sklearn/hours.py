@@ -44,11 +44,32 @@ print("Graph saved -> regression.png")
 
 ####
 
-# prediction for 9 hours
+# prediction for 12 hours
 prediction = model.predict([[12]])
 
 print()
 print("Predicted grade for 12 hours:")
+print(prediction[0])
+
+predicted_grades = model.predict(X)
+
+# plot
+plt.scatter(hours, grades)
+plt.plot(hours, predicted_grades)
+plt.xlabel("Hours studied")
+plt.ylabel("Grade")
+plt.title("Hours graph")
+plt.grid(True)
+plt.savefig("regression.png", dpi=150, bbox_inches="tight")
+plt.close()
+print()
+print("Graph saved -> regression.png")
+
+# prediction for 15 hours
+prediction = model.predict([[15]])
+
+print()
+print("Predicted grade for 15 hours:")
 print(prediction[0])
 
 predicted_grades = model.predict(X)
