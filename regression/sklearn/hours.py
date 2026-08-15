@@ -20,3 +20,11 @@ model.fit(X, y)
 # paramenters
 print("Slope:", model.coef_[0])
 print("Intercept:", model.intercept_)
+
+# prediction for 9 hours
+prediction = model.predict([[9]])
+
+print()
+print("Predicted grade for 9 hours:")
+print(prediction[0])
+
