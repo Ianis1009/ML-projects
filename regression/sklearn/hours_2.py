@@ -49,3 +49,5 @@ plt.grid(True)
 plt.savefig("multiple_regression.png", dpi=150, bbox_inches="tight")
 plt.close()
 
+print()
+print("Graph saved to multiple_regression.png")
