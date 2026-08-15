@@ -35,3 +35,17 @@ print("All preditions: ")
 for actual, predicted in zip(y, predictions):
     print(f"Actual: {actual:5.1f} " f"| Predicted: {predicted: 5.1f}")
 
+
+# Graph
+# relationship between: hours studied and grade
+hours = [row[0] for row in X]
+plt.scatter(hours, y, label="Real data")
+plt.scatter(hours, predictions, label="Predictions")
+plt.xlabel("Hours studied")
+plt.ylabel("Grade")
+plt.title("Multiple Linear Regression")
+plt.legend()
+plt.grid(True)
+plt.savefig("multiple_regression.png", dpi=150, bbox_inches="tight")
+plt.close()
+
