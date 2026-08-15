@@ -28,3 +28,16 @@ print()
 print("Predicted grade for 9 hours:")
 print(prediction[0])
 
+predicted_grades = model.predict(X)
+
+# plot
+plt.scatter(hours, grades)
+plt.plot(hours, predicted_grades)
+plt.xlabel("Hours studied")
+plt.ylabel("Grade")
+plt.title("Hours graph")
+plt.grid(True)
+plt.savefig("regression.png", dpi=150, bbox_inches="tight")
+plt.close()
+print()
+print("Graph saved -> regression.png")
