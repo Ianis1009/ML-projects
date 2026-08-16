@@ -3,7 +3,15 @@
 
 int main () {
 
-    double X[][2] = {}; //TODO: Add data
+    double X[][2] = {
+        {100, 1200}, 
+        {110, 1250},
+        {150, 1400},
+        {160, 1500},
+        {300, 1800},
+        {350, 1900}
+
+    }; //TODO: Add data
     int y[] = {0, 0, 1, 1, 2, 2};
     int n_samples = 6;
     int n_features = 2;
