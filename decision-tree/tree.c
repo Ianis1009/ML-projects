@@ -77,6 +77,7 @@ Split find_best_split (const double X[][2], const int *y, int n_samples, int n_f
 
             double weighted_gini = ((double) left_count / n_samples) * left_gini + ((double)right_count/n_samples) * right_gini;
 
+            // find the best split
             if (weighted_gini < best.gini) {
                 best.gini = weighted_gini;
                 best.feature = feature;
