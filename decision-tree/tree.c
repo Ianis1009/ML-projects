@@ -20,5 +20,13 @@ double gini (const int *y, int n, int num_classes) {
         counts[y[i]]++;
     }
 
-    
+    double result = 1.0;
+
+    for (int i = 0; i < num_classes; i++ ) {
+        double probability = (double)counts[i] / n;
+        result -= probability * probability;
+    }
+
+    return result;
 }
+
